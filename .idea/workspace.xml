@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f26783b-d728-4b53-93a9-408195c7c546" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FrontendJasot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blockquote.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bold.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/caption.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colspan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/del.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dialog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fieldset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/figure.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/htm4.hmtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/i.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/emma.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/jerry.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/startup-849805_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/startup-849805_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_file.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mark.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/option.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pre.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/structElement" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textarea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ul.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +63,7 @@
       <workItem from="1573408340881" duration="1361000" />
       <workItem from="1573475098173" duration="4914000" />
       <workItem from="1573549317276" duration="4752000" />
-      <workItem from="1573556925522" duration="751000" />
+      <workItem from="1573556925522" duration="1381000" />
     </task>
     <servers />
   </component>
